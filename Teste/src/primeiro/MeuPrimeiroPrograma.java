@@ -6,6 +6,7 @@ public class MeuPrimeiroPrograma {
 		// TODO Auto-generated method stub
 		System.out.print("Meu primeiro programa em java!");
 		System.out.print("Testando o commit!");
+		System.out.print("Testando o commit com a senha salva!");
 	}
 
 }
